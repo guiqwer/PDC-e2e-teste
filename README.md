@@ -1,2 +1,4 @@
-# PDC-e2e-teste
-Teste do E2E de criação de repositório pelo PDC
+# Projeto de teste do PDC
+
+Criado pelo E2E de `POST /api/github/repos`.
+Acentuação: ação, coração, ímã.
